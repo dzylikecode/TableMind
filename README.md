@@ -2,38 +2,26 @@
 
 将自己的想法一览无余地展现在桌子上
 
+## 桌子
+
 布局启发自下图，一切东西都放在桌面上探讨：
 
-![](docs/Gameplay_1.webp)
+<p align="center">
+  <img src="docs/Gameplay_1.webp" alt="Gameplay Illustration" style="max-width: 100%;">
+</p>
+
+## 卡牌
 
 卡牌是一种很好的记录方式，它结构简洁，具有边界感，同时信息密度大，参考了几种卡牌设计
 
-<table style="width: 100%; text-align: center; border-collapse: collapse; table-layout: fixed;">
-  <colgroup>
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-    <col style="width: 20%;">
-  </colgroup>
-  <tr>
-    <th>Slay the Spire</th>
-    <th>三国杀</th>
-    <th>Hearthstone</th>
-    <th>Yu-Gi-Oh!</th>
-    <th>Magic: The Gathering</th>
-  </tr>
-  <tr>
-    <td><img src="docs/PowerThrough.webp" alt="Slay the Spire" style="max-width: 100%;"></td>
-    <td><img src="docs/华雄.png" alt="三国杀" style="max-width: 100%;"></td>
-    <td><img src="docs/Draenei.webp" alt="Hearthstone" style="max-width: 100%;"></td>
-    <td><img src="docs/Magic_Cylinder.jpg" alt="Yu-Gi-Oh!" style="max-width: 100%;"></td>
-    <td><img src="docs/2x2-310-panharmonicon.jpg" alt="Magic: The Gathering" style="max-width: 100%;"></td>
-  </tr>
-</table>
+| Slay the Spire | 三国杀 | Hearthstone | Yu-Gi-Oh! | Magic: The Gathering |
+|:--------------:|:------:|:-----------:|:---------:|:--------------------:|
+| ![Slay the Spire](docs/PowerThrough.webp) | ![三国杀](docs/华雄.png) | ![Hearthstone](docs/Draenei.webp) | ![Yu-Gi-Oh!](docs/Magic_Cylinder.jpg) | ![Magic: The Gathering](docs/2x2-310-panharmonicon.jpg) |
 
 > 我的大脑很小，仅仅够放下一张桌子；我的视野很窄，仅仅能容纳一张卡牌
 
-<div style="text-align: center;">
+<p align="center">
   <img src="docs/design.excalidraw.svg" alt="Design Illustration" style="max-width: 100%;">
-</div>
+</p>
+
+## 盒子
