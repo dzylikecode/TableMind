@@ -8,7 +8,6 @@
 
 卡牌是一种很好的记录方式，它结构简洁，具有边界感，同时信息密度大，参考了几种卡牌设计
 
-
 <table style="width: 100%; text-align: center; border-collapse: collapse; table-layout: fixed;">
   <colgroup>
     <col style="width: 20%;">
@@ -33,3 +32,8 @@
   </tr>
 </table>
 
+> 我的大脑很小，仅仅够放下一张桌子；我的视野很窄，仅仅能容纳一张卡牌
+
+<div style="text-align: center;">
+  <img src="docs/design.excalidraw.svg" alt="Design Illustration" style="max-width: 100%;">
+</div>
