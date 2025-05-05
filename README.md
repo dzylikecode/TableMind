@@ -16,7 +16,7 @@
 
 | Slay the Spire | 三国杀 | Hearthstone | Yu-Gi-Oh! | Magic: The Gathering |
 |:--------------:|:------:|:-----------:|:---------:|:--------------------:|
-| ![Slay the Spire](docs/PowerThrough.webp) | ![三国杀](docs/华雄.png) | ![Hearthstone](docs/Draenei.webp) | ![Yu-Gi-Oh!](docs/Magic_Cylinder.jpg) | ![Magic: The Gathering](docs/2x2-310-panharmonicon.jpg) |
+| ![Slay the Spire](docs/PowerThrough.webp) | [![三国杀](docs/华雄.png)](https://catscarf.github.io/) | [![Hearthstone](docs/Draenei.webp)](https://hs.blizzard.cn/cards/) | [![Yu-Gi-Oh!](docs/Magic_Cylinder.jpg)](https://kooriookami.github.io/yugioh-card/) | [![Magic: The Gathering](docs/2x2-310-panharmonicon.jpg)](https://scryfall.com/card/2x2/310/panharmonicon) |
 
 > 我的大脑很小，仅仅够放下一张桌子；我的视野很窄，仅仅能容纳一张卡牌
 
@@ -26,7 +26,7 @@
 
 ## 卡盒/背包
 
-有些卡具有联动
+有些卡具有联动，应该放在一个盒子里
 
 <p align="center">
   <img src="docs/box.excalidraw.svg" alt="Box Illustration">
