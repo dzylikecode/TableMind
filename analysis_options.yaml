@@ -7,7 +7,10 @@
 
 # The following line activates a set of recommended lints for Flutter apps,
 # packages, and plugins designed to encourage good coding practices.
-include: package:flutter_lints/flutter.yaml
+include: 
+  - package:flutter_lints/flutter.yaml
+  # Comment out the bloc_lint package until we can verify the correct path
+  # - package:bloc_lint/recommended.yaml
 
 linter:
   # The lint rules applied to this project can be customized in the
@@ -23,6 +26,15 @@ linter:
   rules:
     # avoid_print: false  # Uncomment to disable the `avoid_print` rule
     # prefer_single_quotes: true  # Uncomment to enable the `prefer_single_quotes` rule
+
+bloc:
+  rules:
+    - avoid_flutter_imports
+    - avoid_public_bloc_methods
+    - avoid_public_fields
+    - prefer_bloc
+    - prefer_cubit
+    - prefer_void_public_cubit_methods
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options

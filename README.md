@@ -21,7 +21,7 @@
 > 我的大脑很小，仅仅够放下一张桌子；我的视野很窄，仅仅能容纳一张卡牌
 
 <p align="center">
-  <img src="docs/design.excalidraw.svg" alt="Design Illustration">
+  <img src="docs/card.excalidraw.svg" alt="Design Illustration">
 </p>
 
 ## 卡盒/背包
@@ -31,3 +31,13 @@
 <p align="center">
   <img src="docs/box.excalidraw.svg" alt="Box Illustration">
 </p>
+
+## database
+
+> portable
+
+以一个文件夹作为仓库来存储所有的信息，通过迁移文件夹来实现数据的同步
+
+- root
+  - files：存放图片，pdf
+  - app：存放比如卡牌，盒子等数据
