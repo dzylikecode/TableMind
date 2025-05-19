@@ -10,13 +10,14 @@ Android 上面没有一个好的文件查看器，为了便于观察的App的存
 
 ![](file_explorer.excalidraw.svg)
 
+```mermaid
+flowchart TD
+    file_repository[(file repository)]
+
+    file_explorer[file explorer]
+
+    file_repository --"status"--> file_explorer
 ```
-event
-  | newProject path
-  | newFolder path
-  | newFile path
-  | rename path
-  | delete path
-  | move path
-  | select file/folder
-```
+
+- file repository: 拥有 crud 操作，然后将整个文件信息传递给 file explorer
+- file explorer: 负责文件的 isOpened，isSelected 等状态
